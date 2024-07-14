@@ -8,7 +8,7 @@
 
 ## Educación
 - **Institución**: UPTM KR
-- **Grado Académico**: Ingeniero Informatico
+- **Grado Académico**: Ingeniero en Informatica
 - **Años de Estudio**: 2019 - 2024
 
 ## Experiencia Laboral
